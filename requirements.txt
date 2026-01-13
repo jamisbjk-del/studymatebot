@@ -2,3 +2,11 @@ python-telegram-bot==21.6
 PyMuPDF
 python-dotenv
 fpdf==1.7.2
+pytesseract
+openai-whisper
+yt-dlp
+opencv-python
+torch
+transformers
+diffusers
+safetensors
